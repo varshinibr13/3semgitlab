@@ -1,2 +1,1 @@
-project management with git
-BCS358C
+adding a fetch and rebase command
